@@ -1,5 +1,7 @@
 # 🧪 Veri Bilimi Mini Projeler
 
+[![Testler](https://github.com/sumeyyeealtintas/veri-bilimi-mini-projeler/actions/workflows/test.yml/badge.svg)](https://github.com/sumeyyeealtintas/veri-bilimi-mini-projeler/actions/workflows/test.yml)
+
 Veri bilimi dersinde öğrendiğim konuları küçük ve çalıştırılabilir projelere döktüğüm koleksiyon. Her klasör bağımsızdır, kendi grafiklerini `cikti/` içine üretir.
 
 | # | Proje | Konu | Temel Sonuç |
